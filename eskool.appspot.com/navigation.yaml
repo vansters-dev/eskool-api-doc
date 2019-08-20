@@ -24,10 +24,10 @@
 # in the 'folders' map below.
 
 ordering:
-- Introduction
-- Guides
-- API Reference
-- Resources
+#- Introduction
+#- Guides
+#- API Reference
+#- Resources
 
 
 #ordering:
