@@ -22,25 +22,17 @@
 #
 # If you add a folder to 'ordering', be sure to add a corresponding entry
 # in the 'folders' map below.
+ordering:
+- Introduction
+- Guides
+- API Reference
+- Resources
 
-#ordering:
-#- Introduction
-#- Guides
-#- API Reference
-#- Resources
-
-
-#ordering:
-#- Introduction
-#- Guides
-#- API Reference
-#- Resources
-
-#folders:
-#  Guides:
+folders:
+  Guides:
     # If you want to have sub-folders, you can add another 'folders' map within
     # this folder's configuration.
     # In this example, there is only a 'Getting Started' page and no sub-folders.
     # The add_example_page script will add a page named 'Example Page' here.
-#    ordering:
-#    - Getting Started
+    ordering:
+    - Getting Started
