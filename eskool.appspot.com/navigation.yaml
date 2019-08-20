@@ -23,7 +23,7 @@
 # If you add a folder to 'ordering', be sure to add a corresponding entry
 # in the 'folders' map below.
 
-ordering:
+#ordering:
 #- Introduction
 #- Guides
 #- API Reference
